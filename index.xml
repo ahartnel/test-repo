@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Podcast</title>
+    <description>My personal podcast feed</description>
+    <link>https://ahartnel.github.io/test-repo/</link>
+    <language>en-us</language>
+    <itunes:author>Me</itunes:author>
+
+    <item>
+      <title>Episode 1</title>
+      <description>My audio episode</description>
+      <enclosure
+        url="https://ahartnel.github.io/test-repo/episode-1.mp3"
+        type="audio/mpeg"
+        length="0"/>
+      <guid>episode-1</guid>
+      <pubDate>Sun, 4 Oct 2026 21:00:00 -0700</pubDate>
+    </item>
+  </channel>
+</rss>
